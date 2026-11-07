@@ -60,6 +60,9 @@ The main limitations include:
 - Historical flood records were not available for model validation.
 - The spatial resolution of the input datasets limits the level of local detail.
 
+
+The project report and map legends are currently available in Romanian. The repository documentation may be updated with English versions in the future.
+
 ## Author
 
 **Daria Sicaru**  
