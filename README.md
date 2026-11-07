@@ -60,19 +60,6 @@ The main limitations include:
 - Historical flood records were not available for model validation.
 - The spatial resolution of the input datasets limits the level of local detail.
 
-## Tools and Technologies
-
-- QGIS 3.40.4
-- OpenTopography
-- OpenStreetMap / QuickOSM
-- CORINE Land Cover 2018
-- Raster Calculator
-- GIS-based Multi-Criteria Analysis
-
-## Documentation
-
-The complete project report is available in the `documentation/` directory.
-
 ## Author
 
 **Daria Sicaru**  
